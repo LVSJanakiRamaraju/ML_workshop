@@ -1,0 +1,88 @@
+2025-02-28 14:59:41,414:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 14:59:41,414:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 14:59:41,414:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 14:59:41,414:WARNING:
+'cuml' is a soft dependency and not included in the pycaret installation. Please run: `pip install cuml` to install.
+2025-02-28 15:00:03,771:INFO:Initializing load_model()
+2025-02-28 15:00:03,771:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:00:04,115:WARNING:C:\Users\rajak\OneDrive\Desktop\Python\projects\ML\venv\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.0', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.8', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '24.1.2', 'setuptools': '75.1.0', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.5.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-02-28 15:00:20,313:INFO:Initializing load_model()
+2025-02-28 15:00:20,314:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:00:24,360:INFO:Initializing load_model()
+2025-02-28 15:00:24,360:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:00:30,783:INFO:Initializing load_model()
+2025-02-28 15:00:30,783:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:00:39,109:INFO:Initializing load_model()
+2025-02-28 15:00:39,109:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:02:09,649:INFO:Initializing load_model()
+2025-02-28 15:02:09,649:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:02:12,570:INFO:Initializing load_model()
+2025-02-28 15:02:12,570:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:02:24,521:INFO:Initializing load_model()
+2025-02-28 15:02:24,521:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:02:32,247:INFO:Initializing load_model()
+2025-02-28 15:02:32,247:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:02:35,271:INFO:Initializing load_model()
+2025-02-28 15:02:35,271:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:02:35,328:INFO:Initializing predict_model()
+2025-02-28 15:02:35,328:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001734D28B010>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', RidgeClassifier(random_state=4505))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000017326F59940>)
+2025-02-28 15:02:35,330:INFO:Checking exceptions
+2025-02-28 15:02:35,330:INFO:Preloading libraries
+2025-02-28 15:02:35,333:INFO:Set up data.
+2025-02-28 15:02:35,389:INFO:Set up index.
+2025-02-28 15:03:01,124:INFO:Initializing load_model()
+2025-02-28 15:03:01,124:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:01,131:WARNING:C:\Users\rajak\OneDrive\Desktop\Python\projects\ML\venv\Lib\site-packages\pycaret\internal\pipeline.py:148: UserWarning: Version mismatch:
+current: {'deps_info': {'pip': '24.0', 'setuptools': '65.5.0', 'pycaret': '3.3.2', 'IPython': '8.32.0', 'ipywidgets': '8.1.5', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.6.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '7.0.0', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': 'Not installed'}, 'python': {'version': '3.11.8', 'machine': 'AMD64'}}
+pickle: {'deps_info': {'pip': '24.1.2', 'setuptools': '75.1.0', 'pycaret': '3.3.2', 'IPython': '7.34.0', 'ipywidgets': '7.7.1', 'tqdm': '4.67.1', 'numpy': '1.26.4', 'pandas': '2.1.4', 'jinja2': '3.1.5', 'scipy': '1.11.4', 'joblib': '1.3.2', 'sklearn': '1.4.2', 'pyod': '2.0.3', 'imblearn': '0.13.0', 'category_encoders': '2.7.0', 'lightgbm': '4.5.0', 'numba': '0.61.0', 'requests': '2.32.3', 'matplotlib': '3.7.5', 'scikitplot': '0.3.7', 'yellowbrick': '1.5', 'plotly': '5.24.1', 'plotly-resampler': 'Not installed', 'kaleido': '0.2.1', 'schemdraw': '0.15', 'statsmodels': '0.14.4', 'sktime': '0.26.0', 'tbats': '1.1.3', 'pmdarima': '2.0.4', 'psutil': '5.9.5', 'markupsafe': '3.0.2', 'pickle5': 'Not installed', 'cloudpickle': '3.1.1', 'deprecation': '2.1.0', 'xxhash': '3.5.0', 'wurlitzer': '3.1.1'}, 'python': {'version': '3.11.11', 'machine': 'x86_64'}}
+  warnings.warn(
+
+2025-02-28 15:03:06,659:INFO:Initializing load_model()
+2025-02-28 15:03:06,659:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:12,274:INFO:Initializing load_model()
+2025-02-28 15:03:12,274:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:15,525:INFO:Initializing load_model()
+2025-02-28 15:03:15,533:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:19,846:INFO:Initializing load_model()
+2025-02-28 15:03:19,846:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:26,074:INFO:Initializing load_model()
+2025-02-28 15:03:26,074:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:51,681:INFO:Initializing load_model()
+2025-02-28 15:03:51,681:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:51,949:INFO:Initializing load_model()
+2025-02-28 15:03:51,951:INFO:load_model(model_name=temp_model, platform=None, authentication=None, verbose=True)
+2025-02-28 15:03:51,996:INFO:Initializing predict_model()
+2025-02-28 15:03:51,996:INFO:predict_model(self=<pycaret.classification.oop.ClassificationExperiment object at 0x000001734D26B250>, estimator=Pipeline(memory=Memory(location=None),
+         steps=[('numerical_imputer',
+                 TransformerWrapper(include=['Pregnancies', 'Glucose',
+                                             'BloodPressure', 'SkinThickness',
+                                             'Insulin', 'BMI',
+                                             'DiabetesPedigreeFunction',
+                                             'Age'],
+                                    transformer=SimpleImputer())),
+                ('categorical_imputer',
+                 TransformerWrapper(include=[],
+                                    transformer=SimpleImputer(strategy='most_frequent'))),
+                ('trained_model', RidgeClassifier(random_state=4505))]), probability_threshold=None, encoded_labels=False, raw_score=False, round=4, verbose=True, ml_usecase=None, preprocess=True, encode_labels=<function _SupervisedExperiment.predict_model.<locals>.encode_labels at 0x0000017326F58CC0>)
+2025-02-28 15:03:51,996:INFO:Checking exceptions
+2025-02-28 15:03:51,996:INFO:Preloading libraries
+2025-02-28 15:03:51,998:INFO:Set up data.
+2025-02-28 15:03:52,017:INFO:Set up index.

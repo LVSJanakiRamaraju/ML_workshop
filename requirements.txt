@@ -1,6 +1,6 @@
-python-dotenv
-pandas 
-numpy
 streamlit
-pickle
+
 pycaret
+pandas
+numpy
+scikit-learn
